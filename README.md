@@ -22,7 +22,7 @@
 <a href="https://github.com/zorgatimedali1" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://linkedin.com/in/medalizorgati" target="blank">
+<a href="www.linkedin.com/in/mohamed-ali-zorgati-b00b6b25b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:Mohamedali.zorgati@polytechnicien.tn">
@@ -55,49 +55,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🎬 MovieXpress
-AI-powered movie recommendation app with smart chatbot assistant  
-**Tech Stack:** Flutter, Kotlin, Supabase
-
----
-
-## 💰 SmartSpend
-Personal finance and budget management application with real-time analytics  
-**Tech Stack:** Flutter, Supabase
-
----
-
-## 🎓 EduHub
-Online learning marketplace connecting students and instructors  
-**Tech Stack:** Flutter, Supabase
-
----
-
-## ✈️ TravelNest
-Full-stack travel agency web platform with dynamic booking system  
-**Tech Stack:** Angular, Node.js, MongoDB
-
----
-
-## 💼 Recruitment Mobile App
-Professional networking and job recruitment mobile application  
-**Tech Stack:** Flutter, Firebase, Dart
-
----
-
-## 🎮 2D Fighting Game + AI Opponent
-Animated 2D combat game with Minimax AI enemy system  
-**Tech Stack:** Python, Pygame
-
----
-
-## 🏨 HotelMaster
-Hotel reservation and management platform with dashboard analytics  
-**Tech Stack:** Spring Boot, Thymeleaf, MySQL
-
----
 
 # 📊 GitHub Stats
 
